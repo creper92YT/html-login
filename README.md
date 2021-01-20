@@ -1,8 +1,8 @@
-#Denominaciones
+# Denominaciones
 
 Con "su creador", "creador", "el creador", "su autor", "autor" y "el autor" se refiere a "Creper92YT", "ᄃЯΣPΣЯ92YƬ" y/o "ᄃЯΣPΣЯ92YƬ#5234"
 
-#Formulario
+# Formulario
 
 Este es un formulario de LogIn que utiliza HTML y css.
 
