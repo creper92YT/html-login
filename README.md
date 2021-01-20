@@ -1,4 +1,4 @@
-# Denominaciones
+### Denominaciones
 
 Con "su creador", "creador", "el creador", "su autor", "autor" y "el autor" se refiere a "Creper92YT", "ᄃЯΣPΣЯ92YƬ" y/o "ᄃЯΣPΣЯ92YƬ#5234"
 
@@ -9,7 +9,7 @@ Este es un formulario de LogIn que utiliza HTML y css.
 Contiene dos carpetas, "es" y "en". Cada una de estas corresponde a un lenguaje diferente. (español e ingles).
 
 
-### **ACLARACION**
+# **ACLARACION**
 
 ESTE REPOSITORIO CONTIENE SOLAMENTE EL ESTILO DEL FORMULARIO, ESTE FORMULARIO NO ESTABLECE CONEXION CON NINGUNA BASE DE DATOS. ES SIMPLEMENTE EL ESTILO, CADA USUARIO PUEDE 
 CONVERTIRLO EN UN FORMULARIO FUNCIONAL UTILIZANDO PHP O CUALQUIER OTRO LENGUAJE, SIN EMBARGO SI DESEEA PUBLICARLO DEBERA OTORGAR CREDITOS A SU CREADOR.
