@@ -66,6 +66,7 @@ body {
 	color: beige;
 	transition: 0.9s;
 	outline: none;
+	text-align: center;
 }
 
 .login_button:hover {
