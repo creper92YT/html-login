@@ -1,0 +1,76 @@
+body {
+	user-select: none;
+	background-image: url(https://gyazo.com/8bcf2e0426a2b3cf68e64a5ff72a382f.png);
+	background-size: repeat;
+}
+
+.form {
+	text-align: center;
+	margin-right: auto;
+	margin-top: 15%;
+	margin-left: auto;
+	display: block;
+	background: rgb(66, 255, 252, 0.6);
+	left: 0;
+	right: 0;
+	border-radius: 10px;
+	border: solid;
+	border-color: rgb(0, 255, 251);
+	padding-bottom: 30px;
+	width: 30%;
+}
+
+.input {
+	border-radius: 10px;
+	outline: none;
+	border-color: rgb(0, 219, 216);
+	filter: drop-shadow(5px 5px 0 rgba(0, 219, 216, 0.7));
+	text-align: center;
+	transition: 0.5s;
+}
+
+.input:hover {
+	border-color: rgb(0, 179, 176);
+	filter: drop-shadow(5px 5px 0 rgba(0, 179, 176, 0.7));
+	transition: 0.5s;
+}
+
+
+.details {
+	font-family: 'Bungee', cursive;
+	filter: drop-shadow(5px 5px 0 rgba(255, 0, 0, 0.1));
+}
+
+.title {
+	font-family: 'Bungee', cursive;
+	filter: drop-shadow(5px 5px 0 rgba(255, 0, 0, 0.1));
+}
+
+.spacer {
+	border-bottom-color: rgb(110, 0, 108);
+	border-bottom-style: solid;
+	filter: drop-shadow(5px 5px 0 rgba(255, 0, 0, 0.1));
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.login_button {
+	margin-top: 20px;
+	border-radius: 5px;
+	padding: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: rgb(110, 0, 108, 0.8);
+	border-color: rgb(0, 219, 216);
+	color: beige;
+	transition: 0.9s;
+	outline: none;
+}
+
+.login_button:hover {
+	background-color: rgb(245, 245, 220, 0.9);
+	border-color: rgb(0, 179, 176);
+	transition: 0.9s;
+	color: rgb(110, 0, 108);
+}
